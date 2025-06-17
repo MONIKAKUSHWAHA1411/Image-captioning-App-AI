@@ -1,0 +1,6 @@
+streamlit
+torch>=2.6.0
+transformers
+Pillow
+requests
+pyarrow
